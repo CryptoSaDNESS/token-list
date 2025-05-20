@@ -1,15 +1,4 @@
-
-  [
-  {
-    "chainId": 101,
-    "address": "Unk6HrB53rxp1EGtLDxB97r7GCGF2c6qhpdSZ6hcHK5",
-    "symbol": "SAD",
-    "name": "Sadness Crypto",
-    "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/CryptoSaDNESS/token-list/main/assets/mainnet/Unk6HrB53rxp1EGtLDxB97r7GCGF2c6qhpdSZ6hcHK5.png",
-    "tags": ["utility-token"]
-  
-  }
+[
   {
     "chainId": 101,
     "address": "Unk6HrB53rxp1EGtLDxB97r7GCGF2c6qhpdSZ6hcHK5",
